@@ -26,7 +26,6 @@ meta é batida.
 1. Notificar a cada período de tempo pra lembrar de beber água;
 </br>
 </br>
-</br>
 Desenvolvedores:
 </br>
 Aiara Dorneles
