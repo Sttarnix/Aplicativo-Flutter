@@ -20,11 +20,15 @@ meta é batida.
 </br>
 =-=-=-=-=-Funcionalidades Futuras (em desenvolvimento)=-=-=-=-=-
 </br>
+</br>
 1. Notificar a cada período de tempo pra lembrar de beber água;
 </br>
 </br>
 </br>
 Desenvolvedores:
+</br>
 Aiara Dorneles
+</br>
 Alex Eduardo Meurer
+</br>
 Ana Iracema
