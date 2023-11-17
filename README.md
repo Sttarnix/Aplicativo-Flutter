@@ -19,7 +19,6 @@ meta é batida.
 2. Adicionar seu consumo diário;
 </br>
 </br>
-</br>
 =-=-=-=-=-Funcionalidades Futuras (em desenvolvimento)=-=-=-=-=-
 </br>
 </br>
