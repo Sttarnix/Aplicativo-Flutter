@@ -14,6 +14,7 @@ meta é batida.
 </br>
 =-=-=-=-=-Funcionalidades=-=-=-=-=-
 </br>
+</br>
 1. Calcular seu consumo diário de água ideal;
 2. Adicionar seu consumo diário;
 </br>
